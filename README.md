@@ -1,5 +1,5 @@
 # music-recommendation-system-
- 🎵 A simple music recommendation system using YouTube API and genre-based search
+ 🎵 A music recommendation system using YouTube API and genre-based search
 
 
 A simple and interactive music recommendation system for  songs built using **Google Colab** and the **YouTube Data API**. It allows users to search for songs by predefined genres or custom text input.
